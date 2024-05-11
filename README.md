@@ -12,3 +12,13 @@
  🌱 I’m currently learning **Tensorflow,Pytorch,AWS**
  </div>
 
+ <hr/>
+ 
+<h2 align="center">💻 Languages⚒</h2>
+<br/>
+<div align="center">
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
+
+<br/>
+<hr/>
