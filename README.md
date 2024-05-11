@@ -20,10 +20,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 ## Frameworks, Platforms & Libraries:
-</a> <a href="https://pytorch .org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" chiều cao="40"/> 
-</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia .org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" Height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-< img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" Height="40"/> </a> 
-</p>
+![Pytorch]("https://pytorch .org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg")
