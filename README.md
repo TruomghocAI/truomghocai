@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 👨‍💻I'm currently studying at university majoring in **computer science**
+ 👨‍💻I'm currently studying on**computer science**
  
  🌱 I’m currently learning **Tensorflow,Pytorch,AWS**
  </div>
