@@ -5,12 +5,8 @@
 
 <br/>
 
-<div align="center">
- 
- 👨‍💻I'm currently studying on **computer science**
- 
- 🌱 I’m currently learning **Tensorflow,Pytorch,AWS**
- </div>
+# 💫 About Me:
+🔭 I’m currently studying on **Computer Science**.<br>🌱 I’m currently learning **Machine Learning**, **Deep learning** and its application in **Computer Vision** and **NLP**.<br>
 
  # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
