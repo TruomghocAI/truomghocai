@@ -1,3 +1,4 @@
+![MasterHead](Hi_there.jpg)
 <h1 align="center">Hi there 👋, I'm Truong!</h1>
 <!--
 <p align="center">
